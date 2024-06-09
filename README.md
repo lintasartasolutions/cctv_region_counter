@@ -1,6 +1,6 @@
-# Employee Focus Monitoring Using YOLOv8
+# Employee Focus Monitor Using YOLOv8
 
-Employee Focus Monitoring leverages YOLOv8 to efficiently track employee productivity during work hours. This implementation aims to enable companies to assess employee performance fairly and accurately.
+Employee Focus Monitoring leverages YOLOv8 to efficiently track employee productivity during work hours. This implementation aims to enable companies to assess employee performance fairly and accurately. YOLOv8 will analyze video footage captured by CCTV to perform the detection.
 
 <div>
 <p align="center">
@@ -11,7 +11,7 @@ Employee Focus Monitoring leverages YOLOv8 to efficiently track employee product
 ## Table of Contents
 
 - [Step 1: Install the Required Libraries](#step-1-install-the-required-libraries)
-- [Step 2: Employee Focus Monitoring Using YOLOv8](#step-2-run-the-region-counting-using-ultralytics-yolov8)
+- [Step 2: Employee Focus Monitor Using YOLOv8](#step-2-run-the-region-counting-using-ultralytics-yolov8)
 
 ## Step 1: Install the Required Libraries
 
