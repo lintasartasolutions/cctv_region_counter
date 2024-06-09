@@ -1,3 +1,2 @@
-/output/
-yolov*.pt
-/__pycache__
+/runs
+/yolov8
