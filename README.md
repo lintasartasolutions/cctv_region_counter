@@ -11,7 +11,7 @@ Model yang digunakan adalah YOLO-NAS. YOLO-NAS adalah model object detection bar
 
 ### 3. Hasil Deteksi
 ![result-img](https://github.com/bayudaru2020/cctv_region_counter/blob/Bayu-Daru-Isnandar-branch/result-example-img.png)
-![result-vid](https://github.com/bayudaru2020/cctv_region_counter/blob/Bayu-Daru-Isnandar-branch/result-example-vid.mp4)
+![result-vid](https://github.com/bayudaru2020/cctv_region_counter/blob/Bayu-Daru-Isnandar-branch/img/result-example-vid-gif.gif)
 
 
 
