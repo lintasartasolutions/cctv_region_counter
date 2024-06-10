@@ -1,0 +1,4 @@
+python==3.10.0
+flask==3.0.3
+ultralytics==8.2.14
+super-gradients
