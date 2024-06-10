@@ -10,8 +10,8 @@ Model yang digunakan adalah YOLO-NAS. YOLO-NAS adalah model object detection bar
 ![YOLO_NAS](https://github.com/bayudaru2020/PPE-Detection-using-YOLO-NAS-and-Flask/blob/master/img/yolo_nas_peforma.png)
 
 ### 3. Hasil Deteksi
-(https://github.com/bayudaru2020/cctv_region_counter/blob/Bayu-Daru-Isnandar-branch/result-example-img.png)
-(https://github.com/bayudaru2020/cctv_region_counter/blob/Bayu-Daru-Isnandar-branch/result-example-vid.mp4)
+![result-img](https://github.com/bayudaru2020/cctv_region_counter/blob/Bayu-Daru-Isnandar-branch/result-example-img.png)
+![result-vid](https://github.com/bayudaru2020/cctv_region_counter/blob/Bayu-Daru-Isnandar-branch/result-example-vid.mp4)
 
 
 
@@ -37,6 +37,6 @@ git clone https://github.com/bayudaru2020/cctv_region_counter.git
 * Buka port http://192.168.0.171:5000 menggunakan browser
 
 Simple web flask siap digunakan
-(https://github.com/bayudaru2020/cctv_region_counter/blob/Bayu-Daru-Isnandar-branch/img/simple-web-flask.png)
+![simple-web-flask](https://github.com/bayudaru2020/cctv_region_counter/blob/Bayu-Daru-Isnandar-branch/img/simple-web-flask.png)
 
 Selain menggunakan simple-web-flask, model dapat diinference langusng dari program python tanpa interface pada file Inference_Yolo_Nas_with_Python.py
