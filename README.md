@@ -10,7 +10,12 @@ Model yang digunakan adalah YOLO-NAS. YOLO-NAS adalah model object detection bar
 ![YOLO_NAS](https://github.com/bayudaru2020/PPE-Detection-using-YOLO-NAS-and-Flask/blob/master/img/yolo_nas_peforma.png)
 
 ### 3. Hasil Deteksi
-![result-img](https://github.com/bayudaru2020/cctv_region_counter/blob/Bayu-Daru-Isnandar-branch/result-example-img.png)
+Image detection
+<p align="center">
+  <img src="https://github.com/bayudaru2020/cctv_region_counter/blob/Bayu-Daru-Isnandar-branch/result-example-img.png" width="50%">
+</p>
+
+Video detection
 ![result-vid](https://github.com/bayudaru2020/cctv_region_counter/blob/Bayu-Daru-Isnandar-branch/img/result-example-vid-gif.gif)
 
 
